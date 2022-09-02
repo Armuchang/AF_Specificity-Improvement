@@ -63,3 +63,7 @@ And the second one is containing ECG signal segments and label data in XTrain an
 For signal file (ECG_signal.csv), rows are the 30-sec ECG segments (1-by-3840 ECG signal points). 
 And each point was labeled as a type of cardiac arrhythmias (Non-AF and AF).
 Now, we can use the data for not only MATLAB but other platforms also.
+
+***Good luck!*** (🍀✨)
+
+Jantappapa Chanthercrob Email: j.chanthercrob@gmail.com
